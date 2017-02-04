@@ -8,6 +8,6 @@ Próximo(s) passo(s)...
   - Uso de socks4a no próprio código em substituição ao torsocks.
 
 
-Projeto por SrW.
+Projeto por Ned Hecatonchires.
 
 Conheça nosso fórum :: Cyberia 2.0 http://67g7jo2sxvkqej2w.onion
